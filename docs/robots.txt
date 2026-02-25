@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://device-appointment.readthedocs.io/en/latest/
